@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464544418501",
+    "firebase_url": "https://notificationdemoapplication.firebaseio.com",
+    "project_id": "notificationdemoapplication",
+    "storage_bucket": "notificationdemoapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464544418501:android:4063b36c3c7cff57",
+        "android_client_info": {
+          "package_name": "in.felix.notificationdemoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464544418501-sd0d3lceaph7rpuv9i60mve4dndjoij2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfXrFwmhl2COjRiKbJBGAkxzGD_4tlbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
